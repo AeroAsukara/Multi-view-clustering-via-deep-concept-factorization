@@ -3,7 +3,7 @@ Code for the clustering model: MCDCF.
 
 Run 'performMultiViewClusteringVarDeepConceptFactorization.m' in Matlab to perform MCDCF.
 
-Published paper on Knowledge-Based Systems, please cite the paper if you use this code for any research purpose. Main components were contributed by Shuai Chang(Aero Asukara), 2019-2020, All Rrights Reserved.
+Published paper on Knowledge-Based Systems, please cite the paper if you use this code for any research purpose. Main components were contributed by Shuai Chang(Aero Asukara), All Rrights Reserved. 2019-2020
 Cite info:
 
 @article{CHANG2021106807,
